@@ -1,6 +1,5 @@
 [package]
-name = "xmss-signatures"
-authors = ["Michael Lodder <redmike7@gmail.com>"]
+name = "xmss"
 category = ["cryptography"]
 description = """
 Pure Rust implementation of XMSS (eXtended Merkle Signature Scheme)
